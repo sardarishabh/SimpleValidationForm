@@ -1,3 +1,3 @@
 # simpleValidationForm
 "# simpleValidateForm" 
-# Simple Validation Form using Dom techniques, HTML, CSS and JS
+# Simple Validation Form using Dom manipulation, HTML, CSS and JS
