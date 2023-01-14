@@ -21,7 +21,6 @@ function validation() {
       email.focus();
       
       response = false;
-      return response;
     }
   
     if (password.value.length >= 8) {
@@ -34,7 +33,6 @@ function validation() {
       password.focus();
       
       response = false;
-      //return response;
     }
     return response;
   }
